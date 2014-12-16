@@ -1,5 +1,7 @@
 # Every Time Zone New Tab
 
+[+ Add to Google Chrome](https://chrome.google.com/webstore/detail/every-time-zone-new-tab/lolfkhefdonnfhidbpfaakibkjhnefld )
+
 A very simple Google Chrome extension. It replaces the default new tab. 
 
 In its place:
