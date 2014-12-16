@@ -9,4 +9,4 @@ In its place:
 
 ---
 
-This extension was created using the "awesome" [extensionizr.com].
+This extension was created using the "awesome" [extensionizr.com](http://extensionizr.com).
