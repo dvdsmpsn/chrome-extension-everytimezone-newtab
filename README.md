@@ -12,6 +12,7 @@ In its place:
 ## Aside
 
 - This extension was created using the "awesome" [extensionizr.com](http://extensionizr.com)
+- Source control: https://github.com/dvdsmpsn/chrome-extension-everytimezone-newtab
 - Tagging releases
   - Example - `git tag -a v1 -m 'Initial version on Chrome Store'; git push --tags`
   - Versions are whole integers: 1, 2, 3, 4
